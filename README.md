@@ -13,5 +13,6 @@ Yahoo
 Rambler
 Mail.ru
 Yandex
+Hotmail
 
 For more information please join us on discord https://discord.gg/9EF5DZbkTQ
